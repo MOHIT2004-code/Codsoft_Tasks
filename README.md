@@ -22,10 +22,5 @@ Welcome to the CodSoft Java Development Internship repository! This repository d
     answers.
   * Implement a timer for each question to limit the time to answer.
     
-# Task 5: Student Cource Registration System
-* Store course information, including course code, title,
-  description, capacity, and schedule
-
-
 # CODSOFT
 # CodSoft Java Development Internship
