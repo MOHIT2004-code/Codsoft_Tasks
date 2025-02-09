@@ -28,4 +28,4 @@ Welcome to the CodSoft Java Development Internship repository! This repository d
 
 
 # CODSOFT
-# CodSoft Java Development internship
+# CodSoft Java Development Internship
